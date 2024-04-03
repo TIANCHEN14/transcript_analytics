@@ -20,6 +20,7 @@ if upload_filename is not None:
     for index, content in enumerate(seg):
         
         output_timing = 'line number : ' + str(round(seg[index]['id'] , 2)) + ' time : ' + str(round(seg[index]['start'] , 2)) + ' -- ' + str(round(seg[index]['end'] , 2))
+        output_timing = '**' + output_timing + '**'
         output_content = 'Text : ' + seg[index]['text']
 
         # here is the part to break down and pull information out of each segment
