@@ -3,6 +3,18 @@ import json
 
 # create an title for this thing
 st.title('Radio Transcript Analytic Viewer')
+st.sidebar.image('image/SHR_logo.png' , width = 250 )
+
+#hide header in the production version
+hide_st_style = """
+                <style>
+                #MainMeue {visibility: hidden;}
+                footer {visibility: hidden;}
+                header {visibility: hidden;}
+                </style>                        
+"""
+
+st.markdown(hide_st_style, unsafe_allow_html=True)
 
 # file upload block and import
 upload_filename = st.file_uploader('Choose an radio transcript file' , type = ['json'])
