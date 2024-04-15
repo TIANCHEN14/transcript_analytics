@@ -32,5 +32,6 @@ st.sidebar.image('image/SHR_logo.png' , width = 250 )
 # Here is the page navigation menu
 st.page_link("Home.py" , label = 'Home', icon = '🏠')
 st.page_link('pages/Single Car Viewer.py' , label = 'Single Car Viewer' , icon = '1️⃣')
-st.page_link('pages/Tester.py' , label = 'Under Construction' , icon = '🏗️')
+st.page_link('pages/File Preview.py' , label = 'File Preview' , icon = '📁')
+st.page_link('pages/Dataset Generator.py' , label = 'Under Construction' , icon = '🏗️')
 
