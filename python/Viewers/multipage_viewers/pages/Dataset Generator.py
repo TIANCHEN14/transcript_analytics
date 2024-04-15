@@ -114,7 +114,7 @@ def dataset_generator(file_path):
     
     # Setup pagination
     if 'current_page' not in st.session_state:
-        st.session_state.current_page = 140
+        st.session_state.current_page = 0
     if 'responses' not in st.session_state:
         st.session_state.responses = []
     
@@ -156,7 +156,7 @@ def dataset_generator(file_path):
     sum_key_str = f"sum_key_{st.session_state.current_page}"
 
     selected_option = st.radio("What Type of information is this",
-                               ["Spotting", "Vehicle handling", "Weather Info", "General Info"],
+                               ["Spotting", "Vehicle handling", "Strategy" ,"Track Info", "General Info"],
                                key=radio_key_str)
     summary = st.text_input("Summary for this paragraph", key=sum_key_str)    
     
