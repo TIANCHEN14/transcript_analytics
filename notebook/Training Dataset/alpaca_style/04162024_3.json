@@ -1,0 +1,2570 @@
+[
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Outside'll be one forty-three, that forty-three'll probably go to the free wide to the top.",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " I did have some cars stay out, twenty-three,",
+        "clasiifer": "Strategy",
+        "output": "some car stay out"
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " fourteen, twenty-one is still up there.",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Alright, buddy, in line to the start-finish line,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " to the green. Leaders, it's now ten,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " five, ready, go, go, go, go, rolling good, come on, keep digging.",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Rolling good front, rolling good front, one back forty-one,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " no pressure, just two by two here. Two by two, you're good, forty-three",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " is trying it, watch the bottom here, you're clear low, clear low,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " roll the bottom, get by that sixteen, two outside, driving off",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " the sixteen, two outside, two outside, two outside, two outside,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " just two outside, coming to you at the bottom, you're good, one out, two outside,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " one outside clear.",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " They're coming down Brad, come on, get by them, one more, you're clear.",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Pretty hard here, the pace car pulled out already.",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " I had twelve forty-two,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " twenty-three twelve forty-two six.",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " You're correct. Alright, I believe the twenty-three",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " old pit there went in open, so that'll put us",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " to the eight. Free pass to the fifteen,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " he's going to work the outside, he's",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " into the front stretch now.",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Open this time, quick yellow. Stand out right here, stand out.",
+        "clasiifer": "Strategy",
+        "output": "pit open this time"
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Alright, pit road's closed.",
+        "clasiifer": "Strategy",
+        "output": "pit road is closed"
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " It will be P15, number will be eight.",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Still eight, correct. Counting to bottom, number is",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " eight, one, two, three,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " four,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " five, six, seven, bottom,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " go bottom, bottom, bottom, bottom. Alright buddy,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " all good here, I believe out back is that sixteen.",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " All good outside will be the one of forty-two, get you another go in here man.",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Nice and pace through one and two, let some other guys wash up, we'll play offense on exit.",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Alright, pace cars in.",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Ten from the mark, five away, ready, go go go go, come on come on come on.",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " That's barely forty-one,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " just two by two here, just two by two, you're good, just two by two,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " two by two, forty-one's blocking the third lane, just one outside.",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Forty-three, there's three wide a row in front of you there, just keep",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " rolling to bottom. Clear up by one, watch as it cross all the way to bottom.",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " It's to eight, all good in front, roll to bottom, there's gonna be room, all good.",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Door, fading,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " outside just to forty-one now, outside forty-one, no runs on the bottom",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " here, just outside, line up, line up outside, line up outside,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " line up outside, line up outside, line up outside.",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Yep, be patient here, Blaney will make a hole, outside.",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Pull the eight back as soon as you get up there, wash the bottom in the middle here, wash the bottom",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " now, wash bottom, looking inside in the middle, in the middle, in the middle,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " in the middle, you're good, in the middle, clear up, one inside,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " in the middle again right here, keep rolling these up, you're good, clear high, one inside.",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " And by itself, nothing in front of forty-one,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " nothing in front of one, one inside only, one inside only, you're good, just the one",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " down there, blue car, you're good. By five, you're good.",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " One out of the groove, he'll fade, outside clear,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " all good. Pressure by ten out back.",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Come on low, get by low, caution down, caution up,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " come on, outside clear, clear, clear, clear.",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " One more, the water will probably come by as well.",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Okay, we're on the restart. I don't know man, just got pinned down dude,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " and sometimes they just couldn't go, fifteen's the free pass,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " they'll be working the outside again. One to the six here, let him go there.",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " He has put on rights as well there, BK, so",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " I don't know, there's been some complaints due to put on rights, get really tight, so",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " not sure.",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " I'm quick yellow. Stand out right here, stand out.",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " I'll be staying out.",
+        "clasiifer": "Strategy",
+        "output": "staying out"
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " P17 right here, obviously you can see some of the cars there in front of you, the 41",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " has rights, and pretty much the rest of those guys haven't",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " pitted except the 43 and the 147 as well.",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Close, Feroz close.",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Okay, just be mindful where the 51 is, if that can change anything,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " obviously it's P13, so may not dictate the rail you're looking for.",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Just giving you a heads up, P17, number will be nine.",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " P17, Brad.",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Alright, correct Matt, sorry.",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " One, two, three,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " four, five,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " six, seven bottom,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " eight bottom, only eight bottom, go. Alright buddy, in line",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " to the start finish line. Pressure out back.",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Ten from the mark, five away, ready,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " go, go, go, come on, come on, come on, keep digging. Keep digging, 41 is clear",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " by one in front of him, he's gonna go one night four, twenty, one night twenty.",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Alright, you're good, watch twenty, watch twenty, he's defending low, you're good, dive in inside,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " inside, inside, inside the twenty, in the middle, in the middle,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " clear low behind him, one outside only, and clear up,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " clear up, clear up, clear.",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " He's gonna look outside here, outside to five,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " by himself, helps with you at the bottom,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " and line up outside here, one bottom, seventy-seven, you're just past that one bottom, right with you.",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " You're good, you're good, one outside to five,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " four, bumper, bumper,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " bumper, clear up, clear, clear, clear, clear, clear, clear, clear,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " watch the run on the five, he'll get one, yep, outside the twenty,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " door, still there, bumper, clear",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " him, clear the sixteen, and drive it up to two outside,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " 41 is middle, 41 is middle, two outside, hang tight on the bottom, two outside,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " on your tight, turn left here a little bit, yep, two outside,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " one outside to 41, still there,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " he's sliding up to block thirty-eight, still gonna be there,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " he's gonna push through the door, start pulling him right here, no runs out back, just pull him back right here,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " side, door, bumper, clear,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " stacking on the bottom, move up, watch the top side, watch the bottom, coming to you on the bottom,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " yep, big push on the bottom here, in line outside, outside to 41,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " in the middle, use the middle, use the middle, one inside only, one inside only,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " one inside only, one inside only,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " driving off the two, no pressure out back, so clear, clear, clear, clear, clear,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " there you go, you can move if you want,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " two backs, he's connected to the bottom, one back, you're good,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " three back, runs on the high side of the 41, he ran the high side, he's gonna have a run here,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " press the bottom if you want to, one back, half inside already, inside 41,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " still there, by himself,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " there by himself, door, still there,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " if you want it,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " inside, door, don't overdo the middle, bumper, bumper, bumper,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " bumper, bumper, bumper, door,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " door, pulling him, he's there at your door,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " there he is at your door still, here he comes, lined up here on the bottom,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " if you make it work, three back on the bottom behind him, you're good if he gets you,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " you're all good, buddy, regroup here,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " three back to the 51, there's stop by stop by, you're good,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " one back, all good, five to get away from him, get away,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " at your door, bumper clear,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " behind you, focus out front, let's go get that too,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " clear by seven, Brad, driving away, you got room to move if you need to,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " still seven back, six back, all good, no run,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " there you go, as soon as he stops, he's three to one, you'll drive by him there,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " no pressure by eight, perfect,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " door, bumper,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " clear, come on up, get your arms, come on up,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " T14, TJ, 72 to go with the line,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " T14, 72 to go with the line, T14,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " got some cars coming to you quick, keep digging, do you know a lap,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " text me please, yeah, just text me a lap,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " making no, we could just put the numbers next to the codes, Matt as well,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " the sheet like one next to the top left, you know what I mean, work our way down,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " you can just tell me the codes and I can read the number, copy,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " T14, Brad, you got room, they're five apart out front,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " right out front buddy, you can do the opposite of that one,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " one couldn't get there, that's a 21, blocking him there,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " keep it wound up, no threat out back at all, three off of him,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " one off of him, you can give yourself a little bit of money in for you, you got plenty of room,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " still 15 back, whatever you need for your entry, for your exit speed,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " bud, don't push him away, go get him,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " door, bumper clear, all good, bud,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " back in your rhythm here, seven back to the 41 and 22 side by side,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " 12 is numerous left down in front of you there,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " little car ahead here, outside by himself, door,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " bumper clear, you've got to run for the bottom here,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " you're good, he's two back, yep, you're good, you're good,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " he's in your track, lifted, stayed up, four back,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " lane higher, three,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " two, one, half diving,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " inside, door, big gap behind him now, seven back,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " 41 by himself, high buddy, T14,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " 63 to go with the line, seven back,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " he ran the bottom, visible gain on the 41, all good,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " last lap was an 07, driving away out back,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " 29.75, that's really good, that's front top",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " five buddy, part out front,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " big gap in front of Joey now, get a while back up, there you go",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " buddy, you've got to catch the next group in front of you, T13,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " 57 to go, this pace, Raptor making a lot of",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " sense, 10-4,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " gotcha, thank you, okay Matt,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " from in front of us to the tent is",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " held up, so if you can short that soon we can probably gain, we're getting",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " held up pretty big, 22, 43,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " trying to time it to where we come out here, 43 is pitting,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " basically is missing that 22 and one now,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " go with Raptor, go with Raptor,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " 10-4, I'll let you know, keep it wound up here",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " obviously, alright buddy, T4 right here,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " next target here, 10 back 24 with tires,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " so eight back, you're good, hit your marks, I see it,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " three, hit your marks, all good here man,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " three back, lane higher too, one and a half,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " one, all good man, with a run here,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " half, half, yep, take your lane, make a murder,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " make your mark, side clear,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " running up here, heads in out back,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " one's pitting, alright T2 behind the",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " 22 here, going to catch Blaney on the back stretch, low on the high side,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " clear buddy, sinking bodyguard here,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " no sir, no sir,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Spearion, Spearion T.J., sir Spearion,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " it looks like one did bodyguard,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " ah, pick your marks buddy, all good man, five back to the one,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " just hit your marks buddy, run our own race here,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " four, all good, yep, separate tactics,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " three back, yep,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Diamond bow inside, bumper even,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " all clear, no threat, no threat,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " I'm super late, dead bud, say it again,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " if you know a number just text me, if you do know it yet, that way I can tell I'm late,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " maybe we can jump in front of us there, okay,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " bumper at the line, then fish, yep, gotcha,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " there you go buddy, looking good, keep logging, last man,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " no threat, toss us out reckoned in for",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " save anything here, are we good? All good,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Rad 42, you're good, nice work,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " thank you BK, nice little run,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " the high line came in about three laps before I moved up there, I feel bad about that, but",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " we're alright, the plane came in one and two, the car had a",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " really good balance for being up there, okay,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " obviously we're open to these four tires,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " let's see, please, 16 still in the lead lap,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " make sure you stop when you're standing there please,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " back of the box, not open yet, I think you're going to",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " be gone, okay, four,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " go TJ, 36, next time bye,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " at the line, it's going to",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " open this time, open this time, remember your",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " lines buddy, don't feed here, it'll be all good, buddy, plan on hitting your marks here,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " I got everything out back, I think we're going to be good, you're",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " 10 away at the line right here, and 10 away,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " five, four, three, two, one,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " right here, four tires to fuel, he's going to be",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " there, all the way, all the way,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " all good, don't feed here,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " too green, too green, don't feed here, all the way to the end,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " there you go, bind off to you,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " outside on the track, 71 I believe,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " alright buddy, I think we're going to be",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " T10, right here,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " T10,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " five, how many laps are on those guys tires up there Matt?",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " 15, 20, and then there's some of those guys on the",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " right, 41, alright Brad, first two guys, three guys",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " have 20, 20, a little more laps on their tires as well,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Ross has 15, right, so",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " and then on the right as well, seven,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " down in the bottom, one bottom, two,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " three, four bottom,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " go bottom, bottom, bottom, bottom, bottom, thank you,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " 31 has rights,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " one has rights, 41 and eight all have right side tires,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " that's good, 33 to go,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " 33 to go, alright buddy, nice finish there,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " 77 out back here, if I tell you to take it away early, we're going to take it away early,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " so it isn't even think about it because he's a dive bomber,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " he is just now ten from the mark,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " five away, ready, go, go, go,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " one off, he's right on, he's right on the bottom line,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " take it away early right here, take it away, take it away, you're good, he's in line, you're good, you're good,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " he's still trying to get out of here, you're good, one outside only, two outside, they're stacking hard,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " take the bottom, two outside, three outside, two outside,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " one outside by the wall, the 14, all the way up by the wall, there he is there,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " no runs, no runs out back, no runs out back,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " and outside, door, still there, pulling him,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " just keep rolling the bottom, no threats out back, just roll the bottom here,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " pull it back a little bit, still side by side out back, nobody has a run here,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " outside only, bumper, door, 14,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " bumper pulling him, bumper barely there still,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " barely there, still there, he's coming back, he's going down now, now, now, now,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " just the 14 here, door, keep rolling up bottom, get that",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " 24th of the line, clear of the 14, you're good,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " he's not quite there, he's there, he's there, he's there, inside, inside,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " two inside, one inside bottom, bottom, bottom only, bottom only, you're good,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " clear, clear, all good, get appointed, no threat man,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " nice and smooth, 30 to go to line, here's PJ,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " 30, there you go with the line,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " clear by 10, all good, alright, he's creeping up",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " on him Brad, you got room to move here, you're clear by 12,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " still 6 back, all good, still 5 back to the 14,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " back, 5 apart out front,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " there you go, still 4 back, all good,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " in the line with you, 4 back, yep, you're good, they're pretty tight out front now,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " 5 back, 4 apart out front,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " 6 back,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " by himself, outside, door,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " bumper, bumper clear, all good, 2 back, a lane higher, no threat,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " 3 back, there you go man, still already 5 back,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " already 5, those two are blocking each other in front of you, you're good, keep on up,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " 1 is still clear, they're gonna split,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " 25 to go right here, 25 to go, 25 to go,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " P5, P5, get to my next,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " close, go get him, he went up already, by the wall,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " bumper, clear, 4 back,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " still 3, you're good, you rolled up in your mirror,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " no threat, 6 back,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " 7 back, no threat, go get him, by himself,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " outside, even, by himself,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " door, still there even, bump into black, still up there,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " door, hanging out there, door, he'll come back to you,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " there he is, slow now, you'll pull him back by the entry, go get him,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " second lane, still there,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " he's on you tight, and half lane off you, door,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " door, door, door, in the black, bumper, bumper, bumper clear,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " good, good, good, good, he went all the way up the track, and by his defense, you're good,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " focus down next to him, let's go, 21 to go,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " P3, P3, leaders in front of you,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " low, car up high, time your pass,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " clear, 45 chasing an 82, and an 80 out front,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " 19 to go,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " there you go buddy, good corner, there you go, perfect corner, wait to get that left run out,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " don't get greedy, go get him,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " 15 to go, there you go man, 15 more,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " wait, wait, the inverse will go down here,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " 14 to go, there you go, recovery, keep the wind up, good 10, nothing out back,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " goes out, wreck off to Causton's now,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " nice job, great job, obviously,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " cash roll right here, big dog,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " about 10 when we go, back green, 10 laps to go, TG,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " correct, TG, that'll be close, probably maybe a little less, yeah,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " just pedaling as hard as I could man, that's all I had,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " plenty good bud, just stay smooth here, you'll eat a bump on this start,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " everything we have here shows",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " front row or bottom,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " team's going to work around the outside, free pass,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " he's middle of the back,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " everybody rope, this time",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " quickie yellow,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " one to go at the line, front row or inside,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " switch again there TG,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " switch,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " and leaders fading bottom,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " bottom, bottom, bottom, bottom, 8 to go TG,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " 8 to go whenever we take the green here, 8 to go when we take it,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " everything said how you want it, back to the green, alright,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " he's 10 from the mark, 5 away, you ready,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " go, go, go, no pressure, no pressure, driving off that 11,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " wind up outside, no pressure out back, driving with the 11, driving with the 11,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " oh you're good, just one outside, one outside the 1, still there,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " driving off the 1, half back a lane higher, one back a lane higher,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " caution's out, caution's out, the 24,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " track is clear Brad, track is clear, leaders the 9,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " I'll let you know if they change the line up any other way there,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " crazy, I had a run on him, and by the flag man he drove away from me,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " I thought you were ready to push him, but it just faded out there,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " oh good though, okay so the free pass is a 47, they're sending him around already,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " he's back in the pack here, 16,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " number will be 2 now buddy, number will be 2,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " one car was outside, did he run tight or did he run on the PJ1",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " or left on the line, you know what I mean, PJ,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " he didn't pin you, he wasn't hard on your door, he was in the grip,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " you just gotta be careful nobody is right on you",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " so they can run the, you know, force the middle, if you get 3 wide you're",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " gonna get a parachute, but yeah, it's gonna be about 3 or 4 to go, whenever we get it",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " from here it's 6 to go right there, so, the pay road wasn't even",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " open yet so that's probably gonna take it to about 3 to go,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " still closed, okay pay road's gonna be open, quick yellow,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " stand out, stand out,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " still closed, okay pay road's gonna be open, quick yellow,",
+        "clasiifer": "Strategy",
+        "output": "pit close"
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " stand out, stand out,",
+        "clasiifer": "Strategy",
+        "output": "stay out"
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " yeah 10-4, stand out, that's 4 to go so,",
+        "clasiifer": "Strategy",
+        "output": "stay out"
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " probably gonna get a green and white checker out of it, zero's closed,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " using this lap, go bottom,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " unless we get to 2 on the bottom there Brad,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " I honestly feel like the 1's probably gonna cover the top, but we'll see,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " see what the 9 does too,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " if I get 2 on the bottom, you go up, 9 fading low here,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " 1 bottom, 2 bottom, we'll take outside,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Denny said push like hell, I'm trying buddy,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " I'm trying,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " make sure they're good and cleaned up here man,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " alright buddy, nice and smooth here, I'll let you know",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " if we need to do anything on the entry to 1, fade up a little bit and come back down,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " push that lever and we'll get away and go for it, nice and smooth here, green, white checker,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " car's in, leader is set from the mark,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " 5 away, ready, go go go,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " 999 is coming to you right here, make a push, make a push, make a push, yep, he's in line,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " in line, watch the high side, then watch the middle, yep, make he with you, yes, in line, good,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " good, no threat out back, driving off to 1 only,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " good, all clear, all clear, by 3, by 3,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " poke the nose and roll up, if they need to, they're gonna be",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " blocking out back, you're good, come on out back, 4 back,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " come on low, come on by low, come on by low,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " caution is out, caution is out, caution is out,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " out, hey you're good, coming up to you, pace car is gonna get you this lap,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " all good, 3 pass will be the 12, he's gonna work around the outside,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " open this time, staying out, quick yellow,",
+        "clasiifer": "Strategy",
+        "output": "pit open, stay out"
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " obviously we don't have any different data than we had earlier, some front row",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " are inside there, keep thinking about what you need,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " you can make it happen right here, we saw that 9 is gonna race, so just be prepared for that,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " shit, I was dead eye behind the walk car,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " something happened there, they just washed up in front of him, but as soon as he got",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " clear, Denny was just in a really, the 9 just kept washing up and he got a foot",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " and a half clear, and as soon as he came up in front of Denny, Denny just lost it,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " yeah, Denny would have been better off letting him",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " kind of clear him a little bit, coming up and crossing him later, cause the 9 wasn't gonna make the exit good,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " 2 rows closed, 1 to go at the flag stand,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " choosing this time, make sure we don't run over it, front row or",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " bottom there for you, whatever you want here buddy,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " 9 to 9, I'll be wasting you there again, he's committed to helping there,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " alright buddy, good clean up back,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " alright buddy, here we go again, green light checker, base car's in,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " 10 from the mark, 508 creep a little bit, ready,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " go, go, go, go, go, pushing him here, yep,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " there you go, clear by 5 feet, you're good, 1 outside only,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " 1 outside only, keep helping him, keep helping him, door 24,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " not on your tight, bumper clear, you're clear, keep coming,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " the caution's out, they are wrecking again, start,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " 99 help me stay attached, the best I could,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " thank you, outside the free pass, open,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " quick yellow, staying out, 2 rows closed, 2 rows closed,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " we're going to go next time by, alright buddy,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " choose a mislap, make sure we don't run over it, front row or bottom or whatever",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " you think there, so it's splitting, you're good, 99's",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " with you again, he's in the same, same",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " deal still, just trying to help all we can to get to the front, if we get",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " rewind back here we're going to get swallowed up, so,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " keep hitting those restarts man, we're going to be in a good spot,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " this is BKNO, they are trying to save gasoline, just be aware",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " nothing they can do about it, but just be aware, 9's trying to save fuel",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " right now, if you can just tell them, tell them right quick",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " before we take off, 9's been trying to save fuel here, just so you're aware",
+        "clasiifer": "Track Info",
+        "output": "9 is trying to save fuel"
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " everything should be good here, back to it, alright, to the green",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " and 10 from the mark, 508, regroup a little bit, ready,",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " go, go, go, drop back, there's 2 by 2",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " 2 by 2, 1 back to 99, no stress, you're good, drive a 24",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " watch the bottom a little bit, you're good, you're good, outside 24, door",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " door, still there, pulling him, he's fading",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " bumper, bumper, bumper, clear, clear, clear, clear, clear, outside, bumper, bumper, bumper, bumper",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " bumper, you're good, he's barely there, door, you'll get him down",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " here, you've got better tires, all good, door",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " still there, bumper, pulling him, still outside",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " bumper, back at your door right here, so I'm down, nothing out back",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " white flag, one more buddy, one more, white flag, one more, you're good",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " no pressure, by 2, by 2, by 1, over the bottom, on the bottom",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " they're jammed up, go, go, go, get by them both, outside, door, come up",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " up, up, up, clear, clear, caution's out, caution's out, grace is over, you should be P2",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " I don't know why, I mean you're clear of him into 3 by 10 car length",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " so, flag backstretch should be clear, nice work",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " good job BK, getting all the way there, thank you",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " really good job executing guys, first in position all day, to make",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " something of it, thank you, nice work Matt, boys down there, good job",
+        "clasiifer": "Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Brad, don't forget the sandwiches I told you, they put the 24",
+        "clasiifer": "Spotting",
+        "output": ""
+    }
+]
