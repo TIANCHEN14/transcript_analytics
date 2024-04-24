@@ -1,11 +1,10 @@
-
-
 import sounddevice as sd
 import numpy as np
 from transformers import WhisperProcessor, WhisperForConditionalGeneration
 import torchaudio
 import torch
 
+# transcribing audio that is 
 def transcribe_audio(audio_array, model, processor):
     # transcrible audio using whisper model
     #print("transcribe function called")
