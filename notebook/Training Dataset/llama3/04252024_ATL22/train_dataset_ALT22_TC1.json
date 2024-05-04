@@ -1,0 +1,1292 @@
+[
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " So we're 10 away, going on four.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " And five, four, three, two, one.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Outside.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Give you a reference mark there for your entry.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Right now.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Yeah, one more time for me.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Do it next time.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " You got me over here?",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Paul, sounds good.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Perfect, thank you.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Pit road speed right there.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Lines up with what's on the dash.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Alright, so for your hot pit road marker, I'll be ready and now.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " We've got our work cut out for us today, but that's alright.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " We've got the team to do it.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " We'll keep fighting hard throughout it, take every opportunity we can to get back on the lead lap.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Make sure we're there at the end to try to win this thing.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " We know we've got a fast car, so we'll keep our head in it.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Sounds good, we're ready.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Yep, we're on just stay focused, do our job, and we'll play it the best we can.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Good luck, have fun out there.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Pit road speed this time.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " So caution pit road speed, four red in the corner.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Alright, four red here, four red lights now.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " D-cell, reds, greens flashing your white.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Greens flashing your white.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Alright, you're going on four here, going on four.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " You are ten away, and five, four, three, two, one.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Get out there when you can.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " One and two are good.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " What was two?",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Two, like what were the numbers?",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Yeah, they were both good.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Lane back there.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " In here, you still good?",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " They're the same, go ahead and drop to the back, you'll be in the outside lane.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Road with 70s and 80s.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " 70s down pit road from there.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " One to go, we'll take the green then do our pass through, don't speed on it.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Remember for the pass through it'll be like the nine yellow.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Copy.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " The 78, 22, nine in the outside line.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " We can go in front of the nine, but I don't know if we want to get caught there, right?",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Get down there to bottom.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Paul, no concern with that zone 17, pass pit stall one.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Yeah, we're right at it, you know, like we're getting it all.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Copy that, if we're not racing anyone I'll just make sure he takes it easy.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Correct, yeah, we weren't speeding anywhere, it's just, you know, we're getting it all.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Green here.",
+        "clasiifer": "Race Start",
+        "output": "Race start green flag"
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " We will pit next time by over there in turn three, pass through.",
+        "clasiifer": "Pit Strategy",
+        "output": "Pit next lap"
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Face cars off.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Ready and green.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Rolling good, rolling good, rolling good.",
+        "clasiifer": "Race Start",
+        "output": "race start "
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Don't switch before the line, now.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " All right, pass through this time, pass through this time.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Room by half in front, pass through this time.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Don't speed, nine yellows, ready and now.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Dark, five now, nine yellows, don't speed.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Big wreck into one, don't speed, big wreck into one, don't speed.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Big wreck into one, big wreck into one, the pack's in the middle of one and two.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " There'll be a lot of cars leaving here, packs off at two.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " A lot of wreck cars on the apron, watch yourself leaving.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Packs middle of the back straight away.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Packs into three, you're good, don't speed, watch all the safety violations.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Vehicles here.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Right on the line, clear.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Got a safety truck outside, let him go.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " All right, you're good, you're good.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Stay right on the line, you got one coming down the hill, watch him.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " You can go up, Saco said you can go up.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " You're good.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Okay.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " It's good.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Like, when I drove through some debris back up to the track here,",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " something came all out of the way, put tires on it, that's right back here.",
+        "clasiifer": "Pit Strategy",
+        "output": "tire changes"
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " I was going to come top off, so if you feel like you can, you can put a set of tires on it.",
+        "clasiifer": "Pit Strategy",
+        "output": "asking if he wants a set of tires"
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " It's hard to say, you know, small little carbon pieces.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " We've got time, we'll get caught up.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " We'll put a set of tires on it and pack it.",
+        "clasiifer": "Pit Strategy",
+        "output": "coming in for 4 tires and fuel"
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Closed.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " All that thought was put into it too.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " I'd much rather this way.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " I'm carrying an umbrella.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Going to be a lap or two before they open it, they're hooking one up at the pit entry.",
+        "clasiifer": "Track Info",
+        "output": "pit road will open in a lap or two "
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Sure.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Still got a red light up here.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " So when pit road is open, the 48 is probably going to be stopped in this box here, just so you know.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Still closed red light.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Pits are open, we'll pit this time.",
+        "clasiifer": "Pit Strategy",
+        "output": "pit this time"
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Four tires and fuel here.",
+        "clasiifer": "Pit Strategy",
+        "output": "4 tires and fuel"
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " I'll keep you up to date with the 48, but right now he's nosed in towards the front side of his box,",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " so it was hard to watch him if he's still there.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Pitting this time, don't speak, four red.",
+        "clasiifer": "Pit Strategy",
+        "output": "pit this time"
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " We'll get no penalties here.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " With the many cars that have pitted, we should be able to choose four red now.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " All right, going to start your decel.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Flashing away.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Straight lights here.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " 48 still sitting in, stall here.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " 48 still sitting in, nosed out, the tail's out a little bit, watch it.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " On the four, you're 10 away, and five, four, three, two, one.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " One lane here, Paul, just one.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " You're clear out.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " All the way, all the way.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " All right, don't speak, don't speak, don't speak.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " I'll wait for it to regroup here, but we should be 20th for the choose.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " No penalty cars, I think it's all the way up to here, is what it turns out to be.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " We may be 19th, I'm not sure, I'll let you know when that updates here.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " I'm going to go with the line, you'll follow the 47 in this group that you pitted with up through here.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " All right, we'll be 19th for the choose here, 19th.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Going to go shortest, that'll be row nine, row nine.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Row nine, don't hit the box.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " I'll do that in front of me.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Zane Smith in the 71, Brad in the sixth, Josh Berry in the four.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " 50 to go in the stage, 50, with all the penalty cars, 47 is the last one on the bottom inside of you.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Gators up top, take the cars off.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Ten, five, three, two, one, green.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Roll a good big gap in front of Brad, two cars in front of you.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Don't switch before the line, now Ty Gibbs behind you.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " One in front, you're clear.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " You're clear, Ty, drop down behind you.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Roofed by one in front of Zane, 15 cars, a third one up there on the bottom.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Roofed by quarter in front, quarter than half, quarter than half stack, you're clear.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Bottom line's by two, one, still clear.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Inside Harrison, barely at your bumper cover.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Two wide here, still there, still there.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Room in front, room in front, room in front of the seven, 15 is the one to get stuck to the middle.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Harrison's to you, bottom line's a-moving, still outside, two wide, two wide, two wide, still there, tops covered, tops covered, tops covered, tops covered, Harrison's by one.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Still there, still there, the 71, still there, door, still out there, gap of one behind him, one back behind him to the 54.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Half, half behind, 54 is outside, outside, room in front of the 47, top covered up here, room in front of this 47, still there, still outside bumper, the 77, host of our, still there, still outside, there's a gap behind host of our outside of you.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " By two behind, got a clear up here, Bubba's the next one coming, half back, front of this 77, room in front by three, three in front, now just one, one in front, half in front, still inside, you're clear, 47's the loner down there, Bubba's by two.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Bubba's laying lower by half, laying lower by half, quarter in front, 54, quarter in front, still there, 23, 47 behind, nothing on the bottom laying behind the 77, room in front of the 54, room in front, room in front by two, two and a half, two, two, one, half, half in front, still there.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " You're clear Brad, Bubba's behind you, clear, Bubba's behind, Tru-X may attack the fence about four in front of you on the top lane, room in front by two, Tru-X in front of him, just watch out for tires, 47 on the bottom by half, inside, 47 single here.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " You're clear right now, half in front, half in front, you're clear, half in front, half in front, three cars right here on the bottom, four right here now in front of you.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Be careful going above the top seam, that's what happens to Tru-X, two thirds to exit of two, seems like the exit of two above the top seam is slick, you're clear right here, next two are clear behind you.",
+        "clasiifer": "Spotting Racecraft",
+        "output": "top lanes seems have less grip"
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Bubba and Harrison, then about five pack to the next pack, room by quarter in front, heavy quarter, heavy quarter.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " The joy up there, the second one in front of you on the bottom, he's trying to chuck people to the middle, just remember that, he's done it to two people already, he's trying to bury, this red car is hanging on right here on the middle lane, right in front of the 54 now, he's hanging on, looks like center out.",
+        "clasiifer": "Spotting Racecraft",
+        "output": "Lajoie like to trap people in the middle"
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Top of three, top of three, back two wide, no, two top of three, top of three, top of three, Bubba's to you, still top of three, still top of three, still top of three, middle lane still there, middle lane's the only one, two wide, two wide, lot of room in front of this 54.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Lot of room in front, Bubba's off to you.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " How's your balance?",
+        "clasiifer": "Vehicle handling",
+        "output": "how's your balance"
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Definitely a looser field than what we had here in the spring, looks more like a summer race at the moment.",
+        "clasiifer": "Vehicle handling",
+        "output": "the car is looser around the field"
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Still there, Bubba and Harrison to you.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Bumper, you're clear, 23 is not, 23 is not, lot of room in front of seven, Bubba's clear, Bubba's clear.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Bubba ran right on the top hash march and then turned down in the center to your lane, by two he's not clear.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " He's one back and clear.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " 16 right here, P16.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Two behind here, four cars lined up only, four cars lined up, that's about seven back to a loose pack.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Barry's on the bottom by half, half lower, half lower.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " He's making surge because he has a handle, you're by two on exit.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Higher, two back higher, still outside, still there, still there, room in front of 54.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Top's by half behind LaJoy, it's closed up, top's closed by the four, still there, still there, there's a gap behind the four, three back, two back behind him.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Clear, right there behind him, clear behind by one, now half, it's closing, it's closing, half quarter in line, outside, outside 47 gonna push you on you, still outside, still there, 54.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Clear the 54, just the 38, just the 38, soft back to you, top's covered behind him, top's covered, no hole, top's covered, no hole.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " The 54 is outside, there's a gap of one, there's a quick one, it's gonna close before you get it, outside, still there, still there, door, quarter, bumper, clear, clear, get up.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " The 38 doesn't have the best handling right there, just so you know, it would be hard to do it to some of these better guys.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Lot of room in front of Truex, still outside, top's covered, top's covered, after LaJoy there's a hole, LaJoy's outside bumper of you, there's a hole gap, one in front, lightly sleeping this bottom lane right now.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Bottom of three, bottom of three, bottom of three, bottom of three, middle lane bumper, middle lane bumper, still there, still there, bottom of three, bottom of three, no help to you, top's covered, middle's open, middle's open outside.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " LaJoy's the one that just pulled it, made it three wide, top's covered up here, the four is outside of you, there's a gap of one to the 38 behind the four, small gap behind the four, clear up, clear up quick if you want it, nope, it's gonna get closed, okay you're good now.",
+        "clasiifer": "Spotting Racecraft",
+        "output": "lajoie is the one pull the top lane"
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Half to the bottom, got a bumper cover, you're clear, you're clear.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Two back behind him, no pressure.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Lot of room in front of Ty, cleared the 71 right now, clear half, gonna close, outside bumper, tight, clear, clear.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Half in line, Bubba's to the bottom now, one back, run to the bottom, three quarter back single, just bubbled out.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " One back bottom, bottom's ahead inside, watch your outside here on exit, outside bumper, bumper, bumper, bumper, outside, mid three, mid three, mid three.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Wide open behind by four, still inside, still inside, still there, three back behind, wrecking up ahead, back it down, back it down, back it down, middle of the track, go high, go high, go high, watch them coming up, watch them coming up, you're good, yellow's up.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Alright, all good here, I don't have a ton of grip, I'm not much worse than the cars around me, some cars are handled definitely better.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Balance wise, I don't know, I can get tight if I'm right up on a car, if I'm not right up on them I'm a little free.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Way through the field here.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " On to good then.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " On slide, is the overall, overall maybe more...",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " 22.47, 22.47.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Clear.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " So we gain the track position at the end of this stage, unless you think you're going to keep working your way up, you want to keep the track position?",
+        "clasiifer": "Pit Strategy",
+        "output": "question for driver if he want track position or pit "
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Um, I mean I'm sure I'll slowly move our way up, but yeah, whatever you think, I'm sure I'll slowly get up there.",
+        "clasiifer": "Pit Strategy",
+        "output": "no preference we can do either"
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " 17 right now, so you've got to figure a bunch behind us are coming, so we may give up five or six spots, but we'll be full then.",
+        "clasiifer": "Pit Strategy",
+        "output": "we are currently 17's place and there is people going to pit behind us. If we pit we will be full by then"
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Good bet.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Sir, open, Paul, quickie.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Paul, turn two, do you want to bring up?",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Do it.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Good.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " I'm coming with us, but...",
+        "clasiifer": "Pit Strategy",
+        "output": "coming to pit"
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Three coming in front of us, Paul.",
+        "clasiifer": "Pit Strategy",
+        "output": "3 is pitting in front of us"
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Majority behind, four red, majority behind us, Paul.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Back of the box.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " One behind us, four red.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " I'll be back of the box.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " This is two and a half to three seconds, so stop and go, correct, Hensley?",
+        "clasiifer": "Pit Strategy",
+        "output": "two to three seconds fuel stop and go"
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Be still.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Ten seconds to go.",
+        "clasiifer": "Pit Strategy",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " It's going to be about two and a half seconds, it's your stop and go play, stop at the back of the box.",
+        "clasiifer": "Pit Strategy",
+        "output": "two and half second fuel stop "
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Back of the box.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Alston's at your three away.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Two and a half, three seconds, we are ten away.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Ready, and five, four, three, two, one.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Clear up.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Don't speed, box of seven, don't speed, don't speed, don't speed, you're good.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Alright, so from what I'm seeing, obviously it's more of a handle than what we had both races here last year.",
+        "clasiifer": "Spotting Racecraft",
+        "output": "different then previous years"
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Seems like that top of three play is a big play, the seven got a couple, the 71 got you right there.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " And the one, two, so eventually going to have to start guarding that.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " A little bit off guard there.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " It definitely got a lot of handling to it, too.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " I'm not 100% sure I can pull that off on everybody.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Well, obviously it's going to trend that way, so start kind of figuring out what you're going to need to do it, get comfortable doing it.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Seventeen, you can pass him.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Using this time, getting your number right now.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " T14, row seven, row seven.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Row seven here, shortest.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Valeni is the leader, going top, one bottom, two, three, four, five, six, you'd be seven.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Alright, 30 to go in the stage, three zero.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " That'll have the 71 outside of you, the seven behind him, the two behind that.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Alright, not going, not going, not going.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Back one to go.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " On the next stop.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Be a tear off next time.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Two here, Irons behind you, 10 away.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    },
+    {
+        "instruction": "Please summarized this line of text",
+        "input": " Five, four, three, two, one, green.",
+        "clasiifer": "General Spotting",
+        "output": ""
+    }
+]
