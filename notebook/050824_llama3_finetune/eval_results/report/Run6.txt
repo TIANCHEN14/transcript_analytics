@@ -1,0 +1,13 @@
+                    precision    recall  f1-score   support
+
+  General Spotting       0.91      0.97      0.94       865
+      Pit Strategy       0.82      0.27      0.41        33
+  Vehicle handling       0.34      0.40      0.37        30
+        Track Info       0.67      0.11      0.19        18
+Spotting Racecraft       0.00      0.00      0.00        16
+    Vehicle Status       0.25      0.12      0.17         8
+        Race Start       0.00      0.00      0.00         6
+
+          accuracy                           0.89       976
+         macro avg       0.43      0.27      0.30       976
+      weighted avg       0.86      0.89      0.86       976
